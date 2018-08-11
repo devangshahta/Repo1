@@ -1,11 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is C628-8467
-
- Directory of C:\Salesforce\Workspace\gitdemoproject
-
-11/08/2018  12:44    <DIR>          .
-11/08/2018  12:44    <DIR>          ..
-11/08/2018  12:44    <DIR>          .git
-11/08/2018  12:44                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  323,005,812,736 bytes free
+change 1
